@@ -1,5 +1,5 @@
 const { Client, Message, MessageEmbed } = require("discord.js");
-const retribution = require("../retribution").retribution;
+const retribution = require("../distribution").distribution;
 const HMfull = require("hmfull");
 
 module.exports = {
